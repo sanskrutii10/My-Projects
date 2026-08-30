@@ -9,7 +9,7 @@ private:
 public:
 	void inputDetails()
 	{
-	cout<<"\nssssEnter name:";
+	cout<<"\nEnter name:";
 	cin>>name;
 	cout<<"Enter employee number:";
 	cin>>employeeno;
